@@ -11,8 +11,8 @@ import 'bootstrap/dist/css/bootstrap.css'
 // import { Header } from 'mint-ui'
 // Vue.component(Header.name, Header)
 // 引入全部组件 在main.js中引用
-import Mint from 'mint-ui';
-import 'mint-ui/lib/style.css';
+import Mint from 'mint-ui'
+import 'mint-ui/lib/style.css'
 // 导入 MUI 的样式
 import './lib/mui/css/mui.min.css'
 // 导入扩展图标样式
